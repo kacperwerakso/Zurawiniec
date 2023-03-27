@@ -1,0 +1,282 @@
+	.body {
+		background: "white-space";
+	}
+
+	.h1 {
+		color: "dark-green";
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.footer {
+		color: silver;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.main {
+		max-width: 1000px;
+		margin: 0 auto;
+	}
+
+	.navigations {
+		background: green;
+		padding: 15px;
+		border-radius: 8px;
+		margin-bottom: 20px;
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+
+
+	}
+
+	.navigations__link {
+		color: whitesmoke;
+		display: inline-block;
+		margin-right: 50px;
+		font-family: "Lucida Sans Unicode";
+		text-decoration: none;
+		border-radius: 20px;
+		background-color: darkgreen;
+		padding: 15px;
+
+	}
+
+	.navigations__link2 {
+		color: white;
+		text-align: right;
+		margin-right: 40px;
+		align-items: right;
+		margin-right: 90px;
+		font-family: "Lucida Sans Unicode";
+		text-decoration: none;
+		border-radius: 20px;
+		background-color: darkolivegreen;
+		padding: 15px;
+
+	}
+
+	.obramowka {
+		padding: 16px;
+		border: 5px #ccc solid;
+		margin-bottom: 15px;
+		border-radius: 40px;
+		background-color: whitesmoke;
+	}
+
+	.obramowka2 {
+		padding: 16px;
+		border: 5px #ccc solid;
+		margin-bottom: 15px;
+		border-radius: 40px;
+		background-color: whitesmoke;
+	}
+
+	.obramowka3 {
+		padding: 16px;
+		border: 20px #ccc solid;
+		margin-bottom: 15px;
+		border-radius: 40px;
+		background-color: whitesmoke;
+	}
+
+	.tytul {
+		color: #3F403F;
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.tekst1 {
+		color: maroon;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.mainheading {
+		color: black;
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.tekst2 {
+		background: green;
+		color: white;
+		padding: 80px;
+		border-width: 30px;
+		border-radius: 50%;
+		display: inline-block;
+		margin-right: 90px;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.foto1 {
+		width: 100%;
+	}
+
+	.foto2 {
+		padding: 20px;
+		width: 40%;
+		align-items: center;
+		display: inline;
+		text-align: center;
+		margin: auto;
+		display: block;
+	}
+
+
+	.foto3 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.foto4 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.foto5 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.foto6 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.foto7 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.foto8 {
+		width: 100%;
+		align-items: center;
+		display: inline;
+	}
+
+	.odnosnik {
+		color: grey;
+		align-items: center;
+		text-align: center;
+		display: block;
+		font-family: "Lucida Sans Unicode";
+		text-decoration: none;
+	}
+
+	.podinf {
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.podinf2 {
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.tekst3 {
+		background: green;
+		color: white;
+		padding: 50px;
+		border-width: center;
+		border-radius: 50%;
+		display: inline-block;
+		margin: 20px;
+		min-width: 85%;
+		max-width: 60%;
+		max-height: 40px;
+		min-height: 40px;
+		font-family: "Lucida Sans Unicode";
+		text-align: center;
+	}
+
+	.lok {
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.lista {
+		margin-left: 30px;
+		font-family: "Lucida Sans Unicode";
+	}
+
+
+	.login {
+		width: 100%;
+		align-items: center;
+		display: inline;
+		font-family: "Lucida Sans Unicode";
+
+	}
+
+
+	body {
+		background: white;
+	}
+
+	.form {
+		margin: 50px auto;
+		width: 300px;
+		padding: 30px 25px;
+		background: white;
+		
+	}
+
+	h1.login-title {
+		color: #666;
+		margin: 0px auto 25px;
+		font-size: 25px;
+		font-weight: 300;
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.login-input {
+		font-size: 15px;
+		border: 1px solid #ccc;
+		padding: 10px;
+		margin-bottom: 25px;
+		height: 25px;
+		width: calc(100% - 23px);
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.login-input:focus {
+		border-color: #6e8095;
+		outline: none;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.login-button {
+		color: #fff;
+		background: green;
+		border: 0;
+		outline: 0;
+		width: 100%;
+		height: 50px;
+		font-size: 16px;
+		text-align: center;
+		cursor: pointer;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	.link {
+		color: #666;
+		font-size: 15px;
+		text-align: center;
+		margin-bottom: 0px;
+		font-family: "Lucida Sans Unicode";
+		
+	}
+
+	.link a {
+		color: #666;
+		font-family: "Lucida Sans Unicode";
+	}
+
+	h3 {
+		font-weight: normal;
+		text-align: center;
+		font-family: "Lucida Sans Unicode";
+	}
