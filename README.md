@@ -27,3 +27,8 @@ Sometimes your antivirus prevents you from doing these things and delete logger.
 
 # Code 
 In the first place the website was written only in html and css, then it was converted to php so that it could connect to MySql
+
+# Eles
+I created new repository of this site without backend(PHP) for hosting on GitHub
+Repository - https://github.com/kacperwerakso/Zurawiniec-Edit
+Site - https://kacperwerakso.github.io/Zurawiniec-Edit/
